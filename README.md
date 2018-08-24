@@ -29,6 +29,7 @@ Figure1.png
 Results for GloVe(downloaded from office website, glove.6B.zip):
 Figure2.png
 
+![alt text](https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization/blob/master/Figure2.png)
 
 ### For details about PNV - Post-Processing via Variance Normalization, please look into the paper:
 
