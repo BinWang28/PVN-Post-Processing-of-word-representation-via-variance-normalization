@@ -22,10 +22,10 @@ I also put the evaluation for word similarity in the same folder. You can have a
 
 ### Here is some results: (same with our paper)
 sgns file from our paper: 
-
+Figure1.png
 
 Results for GloVe(downloaded from office website, glove.6B.zip)
-
+Figure2.png
 
 
 ### For details about PNV - Post-Processing via Variance Normalization, please look into the paper:
