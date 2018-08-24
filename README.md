@@ -3,7 +3,7 @@
 PVN code for paper:
 Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding
 
-# Procedure
+### Procedure
 
 1. Provide the word representation file as txt format.
 For example: https://nlp.stanford.edu/projects/glove/
