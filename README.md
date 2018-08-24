@@ -24,7 +24,7 @@ I also put the evaluation for word similarity in the same folder. You can have a
 sgns file from our paper: 
 Figure1.png
 
-Results for GloVe(downloaded from office website, glove.6B.zip)
+Results for GloVe(downloaded from office website, glove.6B.zip):
 Figure2.png
 
 
