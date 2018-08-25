@@ -38,8 +38,13 @@ https://arxiv.org/abs/1808.06305
 If you are going to use this method, please cite our paper.
 
 @article{wang2018post,
+
   title={Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding},
+  
   author={Wang, Bin and Chen, Fenxiao and Wang, Angela and Kuo, C-C Jay},
+  
   journal={arXiv preprint arXiv:1808.06305},
+  
   year={2018}
+  
 }
